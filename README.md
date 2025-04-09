@@ -11,7 +11,7 @@ When I'm not coding, I'm sipping chai, debugging my life, or building something 
 **Bachelor of Computer Applications (BCA)** | 2022 - 2025  
 INSB BCA & PGDCA College, IDAR
 
-## 🧠 Tech Stack (Structured)
+## 🧠 Tech Stack
 
 | **Category**        | **Technologies** |
 |---------------------|------------------|
