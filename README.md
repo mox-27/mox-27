@@ -1,7 +1,7 @@
 # Hey there, I'm Mox! 👋
 
 ## 💫 About Me  
-I'm Mox (aka Moksh), a curious BCA student with backend in my bloodstream, a thing for open source, and an eye on AI.  
+I'm Mox (aka Moksh), a curious BCA graduate with backend in my bloodstream, a thing for open source, and an eye on AI.  
 I build logic-heavy systems, craft APIs like poems, and wrangle databases without mercy.  
 Frontend? I dabble—but I pick libraries, not color palettes 😅
 
