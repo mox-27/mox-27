@@ -27,11 +27,6 @@ Full-fledged marketplace connecting farmers & merchants
 ✨ **Features**: User authentication, product management, order processing  
 [GitHub Repo](https://github.com/mox-27/AgriBazaar)
 
-### 🔧 PDF Tool Utility  
-No-auth PDF tool suite with comprehensive functionality  
-🛠 **Tech**: React, Node.js, Bootstrap  
-✨ **Features**: Merge, split, extract text/images, compress, password protection  
-[GitHub Repo](https://github.com/mox-27/PDF-Utils)
 
 ### 🚀 More Projects Coming Soon!  
 Currently working on some exciting backend projects...
