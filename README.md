@@ -23,15 +23,15 @@ INSB BCA & PGDCA College, IDAR
 
 ### 🌾 AgriBazaar  
 Full-fledged marketplace connecting farmers & merchants  
-🛠 **Tech**: Django, MySQL  
-✨ **Features**: User authentication, product management, order processing  
-[GitHub Repo](https://github.com/mox-27/AgriBazaar)
+- 🛠 **Tech**: Django, MySQL  
+- ✨ **Features**: User authentication, product management, order processing  
+- [GitHub Repo](https://github.com/mox-27/AgriBazaar)
 
 ### 🔐 Authentication System  
 A clean and scalable authentication system built with Node.js, Express, and Prisma ORM, featuring secure JWT auth and role-based access control.
-🛠 **Tech Stack**: Node.js · Express · PostgreSQL · Prisma · Zod · Nodemailer
-✨ **Key Features**: User authentication · JWT sessions · Role-based access · Input validation · Email verification/reset · Modular architecture · Scheduled cleanup jobs (via node-cron)
-[GitHub Repo](https://github.com/mox-27/authentication-system)
+- 🛠 **Tech Stack**: Node.js · Express · PostgreSQL · Prisma · Zod · Nodemailer.
+- ✨ **Key Features**: User authentication · JWT sessions · Role-based access · Input validation · Email verification/reset · Modular architecture · Scheduled cleanup jobs (via node-cron)
+- [GitHub Repo](https://github.com/mox-27/authentication-system)
 
 
 ### 🚀 More Projects Coming Soon!  
